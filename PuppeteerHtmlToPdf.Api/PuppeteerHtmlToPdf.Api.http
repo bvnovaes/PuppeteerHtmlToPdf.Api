@@ -1,0 +1,6 @@
+@Puppeteer.HtmlToPdf.Api_HostAddress = http://localhost:5053
+
+GET {{Puppeteer.HtmlToPdf.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

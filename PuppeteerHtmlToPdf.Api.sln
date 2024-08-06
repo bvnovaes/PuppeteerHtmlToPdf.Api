@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppeteerHtmlToPdf.Api", "PuppeteerHtmlToPdf.Api\PuppeteerHtmlToPdf.Api.csproj", "{41D9CE03-6832-4F77-AC55-F672807A7AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppeteerHtmlToPdf.Api.Test", "PuppeteerHtmlToPdf.Api.Test\PuppeteerHtmlToPdf.Api.Test.csproj", "{73107C93-45A1-465F-81C4-E8AEA1F8E710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41D9CE03-6832-4F77-AC55-F672807A7AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D9CE03-6832-4F77-AC55-F672807A7AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D9CE03-6832-4F77-AC55-F672807A7AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D9CE03-6832-4F77-AC55-F672807A7AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73107C93-45A1-465F-81C4-E8AEA1F8E710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73107C93-45A1-465F-81C4-E8AEA1F8E710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73107C93-45A1-465F-81C4-E8AEA1F8E710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73107C93-45A1-465F-81C4-E8AEA1F8E710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {760D08E3-7554-44D7-9A08-192549FD1D13}
+	EndGlobalSection
+EndGlobal

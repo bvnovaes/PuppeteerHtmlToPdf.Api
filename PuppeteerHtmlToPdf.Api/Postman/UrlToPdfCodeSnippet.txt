@@ -1,0 +1,3 @@
+curl --location 'https://localhost:7011/v1/urlparapdf/converter' \
+--header 'Content-Type: application/json' \
+--data '"https://www.google.com"'
