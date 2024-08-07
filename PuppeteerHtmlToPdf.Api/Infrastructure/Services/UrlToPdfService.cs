@@ -22,4 +22,3 @@ namespace PuppeteerHtmlToPdf.Api.Infrastructure.Services
         }
     }
 }
-
